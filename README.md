@@ -4,7 +4,7 @@
 - 🔭 My Data Structures & Algorithms Experiment Website: [firatsahin.github.io](https://firatsahin.github.io)
 - 🌱 My Non-Profit Project (as a Full-Stack Dev.): [MyRepertuar.com](https://www.myrepertuar.com) (Digital Musical Repertory)
 - 👯 My YouTube Channel (Music/Covers): [youtube.com/c/FiratSahinTV](https://www.youtube.com/c/FiratSahinTV)
-- 💬 Contact Me: [guneyfiratsahin@gmail.com](mailto:guneyfiratsahin@gmail.com) | [Instagram](https://www.instagram.com/iamfiratsahin)
+- 💬 Contact Me: [guneyfiratsahin@gmail.com](mailto:guneyfiratsahin@gmail.com) | [LinkedIn](https://www.linkedin.com/in/guneyfiratsahin) | [Instagram](https://www.instagram.com/iamfiratsahin)
 
 <!--
 **firatsahin/firatsahin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
